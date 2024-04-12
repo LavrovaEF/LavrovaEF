@@ -2,10 +2,17 @@
   
 - 👀 I’m beginner data analyst
 
-- 🌱 Tools: PostgreSQL, DBeaver, Python (Pandas, Numpy, Matplotlib, Seaborn)
+- 🌱 Tools: PostgreSQL, DBeaver, Python (Pandas, Numpy, Matplotlib, Seaborn, BeautifulSoup, re)
 
 
 Portfolio
+
+Test tasks (LAD-Academy):
+
+| #    | Наименование проекта                | Описание                                                     | Стек                                                         |
+| ---- | -------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1.   | [Парсинг вакансий hhru для IT-специальностей](https://github.com/LavrovaEF/Test-tasks/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.ipynb) | Написание алгоритма парсинга данных <br/>по вакансиям для IT-специалистов с hh.ru. | python, pandas, bs4, selenium       |
+| 2.   | [Поиск и распознавание текста в pdf файле](https://github.com/LavrovaEF/Test-tasks/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.ipynb) | Написание алгоритма распознавания и <br/>поиска текста из pdf файла (печатный текст).   | python, pandas, matplotlib, easyocr, pdf2image |
 
 Yandex.Practicum projects:
  
